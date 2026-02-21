@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I've been coding for nearly 3 years, mainly in Front-end development with ReactJS. I also have some experience in Back-end development as well.
+I've been coding for over 4 years, mainly in Front-end development with ReactJS. I also have some experience in Back-end development as well.
 
 * 🌍  I'm based in Hanoi
 * ✉️  You can contact me at [holam9120@gmail.com](mailto:holam9120@gmail.com)
