@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Lam (Anderson) Ho.
 =================================================================================================================================
 
-Web Developer
+Front-end Developer
 -------------
 
 I've been coding for over 4 years, mainly in Front-end development with ReactJS. I also have some experience in Back-end development as well.
@@ -9,7 +9,7 @@ I've been coding for over 4 years, mainly in Front-end development with ReactJS.
 * 🌍  I'm based in Hanoi
 * ✉️  You can contact me at [holam9120@gmail.com](mailto:holam9120@gmail.com)
 * 🚀  I'm currently working on [AI Note Keeper](https://github.com/lamdan0901/AI-Note-Keeper)
-* 🧠  I'm learning Advanced Front-end development knowledge.
+* 🧠  I'm learning fullstack development.
 
 ### Socials
 
